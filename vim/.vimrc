@@ -22,3 +22,5 @@ set hlsearch		"highlight search matches
 "press enter after search to clear search highlight
 nnoremap <cr>  :noh<cr><cr>
 
+" macOS backspace fix
+set backspace=2

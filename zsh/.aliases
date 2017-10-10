@@ -1,0 +1,20 @@
+# ls
+alias ls='ls -abCFG'
+alias ll='ls -abFGhl'
+
+# greps
+alias grep='grep --color=always'
+alias egrep='egrep --color=always'
+alias fgrep='fgrep --color=always'
+
+# others
+alias tree='tree -C'
+
+alias du='du -h'
+
+alias myip='curl ifconfig.me'
+
+# directory climb
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
